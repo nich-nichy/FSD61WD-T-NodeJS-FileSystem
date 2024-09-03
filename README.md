@@ -38,7 +38,7 @@ Request Body:
 
 Postman Url: 
 ```
-https://www.postman.com/dark-crater-25789/workspace/test/request/30932673-bea57234-104f-4806-a1eb-388828b9a5f1?action=share&creator=30932673&ctx=documentation 
+https://www.postman.com/dark-crater-25789/workspace/test/request/30932673-bea57234-104f-4806-a1eb-388828b9a5f1?action=share&creator=30932673&ctx=documentation
 ```
 
 Write File
