@@ -1,4 +1,3 @@
-// file.route.js
 const express = require("express");
 const router = express.Router();
 const { writeFileFunction, readFilesFunction, createFolderFunction } = require("../controllers/file.controller");

@@ -1,9 +1,11 @@
 const express = require("express");
 const morgan = require("morgan");
+require('dotenv').config();
 
 // Setting up the server
 const app = express();
 const port = 8080;
+
 
 // Middleware
 app.use(express.json());
@@ -18,7 +20,7 @@ app.use("/file", require("./routes/file.route"));
 app.use((req, res, next) => {
     const error = {
         status: 404,
-        message: "Route not found",
+        message: "Check route and method",
     };
     next(error);
 });
