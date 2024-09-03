@@ -36,9 +36,9 @@ Request Body:
 }
 ```
 
-Postman Url:
+Postman Url: 
 ```
-https://dark-crater-25789.postman.co/workspace/My-Workspace~aecfdac6-b228-4c4f-85e8-e082e73b2e68/request/30932673-5c6e7f39-2580-442e-8e08-47ed0d7eee66?action=share&creator=30932673&ctx=documentation
+https://www.postman.com/dark-crater-25789/workspace/test/request/30932673-bea57234-104f-4806-a1eb-388828b9a5f1?action=share&creator=30932673&ctx=documentation 
 ```
 
 Write File
@@ -55,7 +55,7 @@ Request Body:
 
 Postman url:
 ```
-https://dark-crater-25789.postman.co/workspace/My-Workspace~aecfdac6-b228-4c4f-85e8-e082e73b2e68/request/30932673-65abe913-8c02-4210-9116-c924cba5fdc0?action=share&creator=30932673&ctx=documentation
+https://www.postman.com/dark-crater-25789/workspace/test/request/30932673-a8a9db33-4476-4497-a76a-f923177ccbbf?action=share&creator=30932673&ctx=documentation
 ```
 
 Read Files:
@@ -73,6 +73,6 @@ Request Body:
 
 Postman url:
 ```
-https://dark-crater-25789.postman.co/workspace/My-Workspace~aecfdac6-b228-4c4f-85e8-e082e73b2e68/request/30932673-333e3702-981b-4c98-9857-7deeaaca1cac?action=share&creator=30932673&ctx=documentation
+https://www.postman.com/dark-crater-25789/workspace/test/request/30932673-af90f880-0706-4d77-a611-2b6ab9acf35c?action=share&creator=30932673&ctx=documentation
 ```
 
