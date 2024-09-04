@@ -12,7 +12,7 @@ Install Dependencies:
 npm install
 ```
 
-Create a .env File Create a .env file in the root directory and set the BASE_PATH variable to your desired directory:
+Create a .env file in the root directory and set the BASE_PATH variable to your desired directory:
 ```
 BASE_PATH=/path/to/your/directory
 ```
